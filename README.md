@@ -1,0 +1,2 @@
+# sirket_satis_uygulamasi
+sirket_satis_uygulamasi
